@@ -1,0 +1,70 @@
+body{
+    font-family: 'Heebo', sans-serif;
+    margin: 0;
+}
+.top-navigation-bar{
+    background-color: #455A64;
+    padding: 5px 0 5px;
+}
+.top-navigation-bar a{
+    font-size:20px;
+    padding: 20px;
+    text-decoration: none;
+    color: aliceblue;
+    text-align: center;
+}
+.background-image{
+    background-image: url(images/bg\ 1.png);
+    background-repeat: no-repeat;
+    background-size: 900px;
+}
+.top-tittle{
+    font-size: 50px;
+    color: #455A64;
+}
+.bottom-tittle{
+    font-size: 100px;
+    color: #FF725E;
+}
+p{
+    font-size: 25px;
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 20px 40px;
+}
+.half-width img{
+    width: 100%;
+    padding: 0px 0 0 0;
+}
+.hire-me-botton{
+    text-decoration: none;
+    background-color: #FF725E;
+    padding: 8px 15px;
+    border-radius: 8px;
+    color: aliceblue;
+background-image: linear-gradient(#FFB7B0, #FF725E);
+}
+.about-me-tittle{
+    font-size: 50px;
+    color:#455A64 ;
+}
+.personal-info{
+    font-size: 30px;
+}
+.about-sections{
+    text-decoration: none;
+    background-color: #FF725E;
+    padding: 8px 15px;
+    border-radius: 8px;
+    color: aliceblue;
+    background-image: linear-gradient(#FFB7B0, #FF725E);
+}
+.background-image-2{
+    background-image: url(images/bg\ 2.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
