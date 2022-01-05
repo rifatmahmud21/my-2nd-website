@@ -68,3 +68,31 @@ background-image: linear-gradient(#FFB7B0, #FF725E);
     background-repeat: no-repeat;
     background-position: right;
 }
+.expreience{
+    text-align: center;
+    font-size: 50px;
+    color:#455A64 ;
+}
+.box{
+    width: 40%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    padding: 1%;
+    box-shadow: 10px 10px 30px rgb(94, 94, 94);
+    border-left: 10px solid #FF725E;
+}
+ 
+#GB{
+    border-left: 10px solid;
+    border-image: linear-gradient(#548aff, #FF725E);
+    border-image-slice:1;
+}
+.Skill-tittle{
+    text-align: center;
+    font-size: 45px;
+    color:#FF725E;
+}
+.tag{
+    text-align: center;
+    color: rgb(206, 206, 206);
+}
